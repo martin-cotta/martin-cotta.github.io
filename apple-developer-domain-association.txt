@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: .well-known/apple-developer-domain-association.txt
+---
+
+This is a readme!
